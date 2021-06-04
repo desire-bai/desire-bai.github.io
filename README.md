@@ -5,6 +5,6 @@
   </head>
   <body>
     这是一次测试。
-    <a href="1.html"></a>
+    <a href="1.html">bulabula</a>
   </body>
 </html>
