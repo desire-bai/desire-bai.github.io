@@ -4,7 +4,7 @@
   <title>每天的小进步</title>
   </head>
   <body>
-    这是一次测试。
+    <p>这是一次测试。</p>
     <a href="1.html">bulabula</a>
   </body>
 </html>
